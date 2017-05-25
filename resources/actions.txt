@@ -1,0 +1,4 @@
+http://localhost/rubric/json.users.php?action=list_user_assignments
+http://localhost/rubric/json.users.php?action=list_enrolled_modules
+http://localhost/rubric/json.users.php?action=get_columns_in_table&table=table_name
+http://localhost/rubric/json.users.php?action=get_contents_in_table&table=table_name
